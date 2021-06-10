@@ -1,3 +1,2 @@
 # Copy to ../config.py
-api_endpoint = 'https://www.steamgriddb.com/api/v2'
-api_key = 'your_api_key_here'
+api_key = '88b9858f5c08c27ebedd2dfc6fa4c644'
